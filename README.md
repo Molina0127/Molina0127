@@ -23,6 +23,8 @@ Eu atualmente estudo no 🏫 IFSP foi lá que eu aprendi a gostar de tecnologia 
 Podemos notar isso desde Apps que facilitaram qualquer procedimento simples do nosso cotidiano, até as tentativas mais promissoras de começar uma colonização em Marte, tudo isso envolve tecnologia.
 
 No momento eu sou bem júnior 😅 mas acredito que com muito foco e dedicação eu alcançarei os meus objetivos mais ousados 🚀
+
+Esse commit é para dizer Estou de volta
 <br>
 
 ### 💪 Eu tenho habilidade em
