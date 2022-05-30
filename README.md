@@ -24,7 +24,6 @@ Podemos notar isso desde Apps que facilitaram qualquer procedimento simples do n
 
 No momento eu sou bem júnior 😅 mas acredito que com muito foco e dedicação eu alcançarei os meus objetivos mais ousados 🚀
 
-Esse commit é para dizer Estou de volta
 <br>
 
 ### 💪 Eu tenho habilidade em
