@@ -14,56 +14,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, eu sou o Guilherme 👋
+<h1 align="center">Hi 👋, I’m Guilherme</h1>
 
 <img src="Banner-Github-Tecnologia.png">
 
-Eu sou formado pelo IFSP 🏫 e foi lá que eu aprendi a gostar de tecnologia e de desenvolvimento 💻 como eu gosto hoje. Acredito que eu sempre gostei da ideia de poder impactar a vida de alguém através de algo que produzisse, e vejo essa possibilidade na informática.
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FrMTZneW85NTFibWM3Y3BwcnhzdGJ0M3lkcDhnZnJ3enp2dTIzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.webp">
 
-Podemos notar isso desde Apps que facilitaram qualquer procedimento simples do nosso cotidiano, até as tentativas mais promissoras de começar uma colonização em Marte, tudo isso envolve tecnologia.
+- 🔭 I’m looking to work with **FullStack Developer**
 
-No momento eu sou bem júnior 😅 mas acredito que com muito foco e dedicação eu alcançarei os meus objetivos mais ousados 🚀
+- 🌱 I’m currently learning **JavaScript and C Language**
 
-<br>
+- 📫 How to reach me **guimoltri@gmail.com**
 
-### 💪 Eu tenho habilidade em
+- 📄 Know about my experiences at [https://www.linkedin.com/in/guilherme-molina-trindade/](https://www.linkedin.com/in/guilherme-molina-trindade/)
 
-![Git Badge](https://img.shields.io/badge/Git-20232A.svg?style=flat&logo=git&logoColor=%23F05033)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-20232A?style=flat&logo=html5&logoColor=E34F26)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-20232A?style=flat&logo=css3&logoColor=1572B6)
-![Language C Badge](https://img.shields.io/badge/C-20232A?style=flat&logo=c&logoColor=00599C)
+- ⚡ Fun fact **I really like soccer**
 
-### 📚 Atualmente eu estou estudando
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![Node.js Badge](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js&logoColor=43853D)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-### 😍 Eu também já tive contato com outras ferramentas e linguagens como
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=molina0127&show_icons=true&title_color=0080c0&bg_color=ffffff&locale=en" alt="molina0127" /></p>
 
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-20232A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Java Badge](https://img.shields.io/badge/Java-20232A?style=flat&logo=java&logoColor=ED8B00)
-![Python Badge](https://img.shields.io/badge/Python-20232A?style=flat&logo=python&logoColor=235980)
-![C# Badge](https://img.shields.io/badge/C%23-20232A?style=flat&logo=c-sharp&logoColor=239120)
-![Unity Badge](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=007ACC)
-
-### 📈 Minhas estatísticas
-
-  <div>
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=Molina0127&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molina0127&theme=dark&layout=compact">
-  </div>
-  
-### 📫 Caso queira entrar em contato 
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-20232A?style=flat&logo=linkedin&logoColor=0077B5
-)](https://www.linkedin.com/in/guilherme-molina-trindade/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-20232A?style=flat&logo=gmail&logoColor=D14836
-)](mailto:guimoltri@gmail.com)
-
-<br>
 
 
 
