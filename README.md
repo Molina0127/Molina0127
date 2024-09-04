@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FrMTZneW85NTFibWM3Y3BwcnhzdGJ0M3lkcDhnZnJ3enp2dTIzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.webp">
+
 <h1 align="center">Hi 👋, I’m Guilherme</h1>
 
 <img src="Banner-Github-Tecnologia.png">
-
-<img align="right" height="80px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FrMTZneW85NTFibWM3Y3BwcnhzdGJ0M3lkcDhnZnJ3enp2dTIzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.webp">
 
 - 🔭 I’m looking to work with **FullStack Developer**
 
