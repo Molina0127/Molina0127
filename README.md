@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I’m Guilherme</h1>
 
-<img src="Banner-Github-Tecnologia.png">
-
 - 🔭 I’m looking to work with **FullStack Developer**
 
 - 🌱 I’m currently learning **JavaScript and C Language**
