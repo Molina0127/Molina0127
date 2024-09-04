@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ## Olá, eu sou o Guilherme 👋
 
-<img src="Guilherme Molina Trindade.png">
+<img src="Banner-Github-Tecnologia.png">
 
-Eu atualmente estudo no 🏫 IFSP foi lá que eu aprendi a gostar de tecnologia e de desenvolvimento 💻 como eu gosto hoje. Acredito que eu sempre gostei da ideia de poder impactar a vida de alguém através de algo que produzisse, e vejo essa possibilidade na informática.
+Eu sou formado pelo IFSP 🏫 e foi lá que eu aprendi a gostar de tecnologia e de desenvolvimento 💻 como eu gosto hoje. Acredito que eu sempre gostei da ideia de poder impactar a vida de alguém através de algo que produzisse, e vejo essa possibilidade na informática.
 
 Podemos notar isso desde Apps que facilitaram qualquer procedimento simples do nosso cotidiano, até as tentativas mais promissoras de começar uma colonização em Marte, tudo isso envolve tecnologia.
 
