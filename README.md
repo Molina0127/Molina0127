@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I’m Guilherme</h1>
 
-- 🔭 I’m looking to work with **FullStack Developer**
+- 🔭 I’m looking for a job as a **Full Stack Developer**
 
 - 🌱 I’m currently learning **JavaScript and C Language**
 
